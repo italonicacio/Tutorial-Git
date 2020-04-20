@@ -1,2 +1,2 @@
-print("Hello")
-print(" Git")
+print('exemplo 3')
+
